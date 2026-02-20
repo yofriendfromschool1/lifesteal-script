@@ -1,2 +1,2 @@
 #!/bin/bash
-mv ~/Downloads/*.jar ~/.minecraft/mods
+mv *.jar ~/.minecraft/mods
