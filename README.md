@@ -10,3 +10,7 @@ chmod +x *.sh
 ```
 for windows users:
 just download everything and double click fabric installer and install 1.21.10 then move all other jar files in %appdata%\.minecraft\mods
+OUTDATED
+DOWNLOAD FOR 1.21.11
+DONT DOWNLOAD THESE JUST LOOK FOR THE MODS
+lifesteal-mian btw and forge configapiport
